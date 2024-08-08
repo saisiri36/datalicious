@@ -1,5 +1,8 @@
-## AtliQ Hospitality Analysis
-- Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality
+## PROBLEM STATEMENT
+
+# AtliQ Hospitality 
+
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality
 industry for the past 20 years. Due to strategic moves from other competitors and ineffective
 decision-making in management, Atliq Grands are losing its market share and revenue in the
 luxury/business hotels category. As a strategic move, the managing director of Atliq Grands
@@ -9,7 +12,7 @@ However, they do not have an in-house data analytics team to provide them with t
 insights. Their revenue management team had decided to hire a 3rd party service provider to
 provide them with insights from their historical data.
 
-# Dashboard
+# Analysis
 
 ![Screenshot 2024-08-08 132606](https://github.com/user-attachments/assets/2b9ca653-d34b-41fd-b724-4192511b93e7)
 
