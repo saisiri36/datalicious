@@ -14,38 +14,55 @@ This dashboard provides insights into driver performance and bonus options.
 
 ![Screenshot 2024-08-09 135334](https://github.com/user-attachments/assets/1871848a-9cb5-4c34-b5e5-3cd1faddf5d4)
 
-# INSIGHTS
+# Overall Insights:
 
 1. Driver Performance Metrics:
-0.69: This shows the proportion of drivers with a rating of 4.7 or higher.
-0.34: This represents the proportion of drivers who have completed fewer than 10 trips.
-0.46: This is the proportion of drivers with an acceptance rate below 90%.
    
-2. Driver Groups and Ratings:
-The pie chart displays the distribution of drivers across three categories:
-Drivers with fewer than 10 trips.
-Drivers with less than 90% acceptance rate.
-Drivers with a rating of 4.7 or higher.
-
-3. Bonus Distribution:
-The bar chart shows the total bonus amounts for two different options (Option 1 and Option 2) based on the number of supply hours.
-Total Bonus Option 1: 1,050
-Total Bonus Option 2: 2,976
-
-4. Eligible Drivers:
-21 drivers are eligible for Bonus Option 1.
-46 drivers are eligible for Bonus Option 2.
+   0.69: This shows the proportion of drivers with a rating of 4.7 or higher.
    
-5. Cost Implications:
-The total cost for Bonus Option 1 is 1,050.
-The total cost for Bonus Option 2 is 2,976.
+   0.34: This represents the proportion of drivers who have completed fewer than 10 trips.
+   
+   0.46: This is the proportion of drivers with an acceptance rate below 90%.
+   
+3. Driver Groups and Ratings:
+   
+   The pie chart displays the distribution of drivers across three categories:
+   
+   Drivers with fewer than 10 trips.
+   
+   Drivers with less than 90% acceptance rate.
+   
+   Drivers with a rating of 4.7 or higher.
+
+5. Bonus Distribution:
+   
+   The bar chart shows the total bonus amounts for two different options (Option 1 and Option 2) based on the number of supply hours.
+   
+   Total Bonus Option 1: 1,050
+   
+   Total Bonus Option 2: 2,976
+
+7. Eligible Drivers:
+   
+   21 drivers are eligible for Bonus Option 1.
+   
+   46 drivers are eligible for Bonus Option 2.
+   
+9. Cost Implications:
+    
+   The total cost for Bonus Option 1 is 1,050.
+   
+   The total cost for Bonus Option 2 is 2,976.
 
 # Scenario 2: 
 A taxi driver currently generates $200 per day in fares (before expenses), works six days a week, takes three weeks off, and has the following expenses:
 
 Gas - $200 per week
+
 Insurance - $400 per month
+
 Vehicle rent (by the week) - $500
+
 The driver doesn't pay gas and rent expenses on off weeks.
 
 Now, let's assume that the same driver would buy a Town Car and partner with Uber. If he does, his gas expenses would go up by 5%, his insurance expense would decrease by 20%, and he would no longer be renting a vehicle. However, he would need to buy a car. The driver would still take three weeks off per year.
